@@ -27,6 +27,7 @@ This also ties into another challenge we ran into was with initially creating th
 
 ## What's next?
 
-- [x] Have a clearer transition
-- [x] Play catch with strangers (implementing directional throwing)
-- [x] Sense how far and hard user wants to throw ball
+- [x] Demo at HackThe6ix!
+- [ ] Have a clearer transition
+- [ ] Play catch with strangers (implementing directional throwing)
+- [ ] Sense how far and hard user wants to throw ball
