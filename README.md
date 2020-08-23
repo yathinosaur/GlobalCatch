@@ -23,7 +23,7 @@ This also ties into another challenge we ran into was with initially creating th
 * Working Unity application with AR
 * Use of EchoAR and integrating with our application
 * Learning how to use Firebase
-* Creating a working chat application between two users
+* Creating a working chat application between multiple users
 
 ## What's next?
 
