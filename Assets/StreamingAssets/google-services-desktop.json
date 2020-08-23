@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82930926056",
+    "firebase_url": "https://globalcatch-3da1b.firebaseio.com",
+    "project_id": "globalcatch-3da1b",
+    "storage_bucket": "globalcatch-3da1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82930926056:android:72da3f194e0d830e9a645d",
+        "android_client_info": {
+          "package_name": "com.HT6.GlobalCatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82930926056-ao6cio3iljkm5seqgp6cmdi6a5gp5mjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbYZ8rKjVfvYtXL14uvhwPWsLbedCgF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82930926056-ao6cio3iljkm5seqgp6cmdi6a5gp5mjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82930926056-bhi2utp2c8u5bg22r8impa49472bdsce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HT6.GlobalCatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
