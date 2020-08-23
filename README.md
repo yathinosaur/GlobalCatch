@@ -10,7 +10,7 @@ Our application uses AR and Unity to allow you to play catch with another person
 
 ## How we built it
 
-For the AR functionality of the application, we used Unity and then to record the user sending the ball to another user, we used a Firebase back-end. We also utilized EchoAR to create different 3D objects that users can choose to throw. This lets the application know that user A has sent a ball to user B, so a ball should show up on user B's screen. Furthermore for the chat application, we developed it using Python and HTML. In Python, we used Flask, specifically with Opentok.
+For the AR functionality of the application, we used Unity and then to record the user sending the ball to another user, we used a Firebase back-end. We also utilized EchoAR to create different 3D objects that users can choose to throw. This lets the application know that user A has sent a ball to user B, so a ball should show up on user B's screen. Furthermore for the chat application, we developed it using Python (Flask), HTML and Socket.io in order to create bi-directional communication between the web-user and server.
 
 ## Challenges we ran into
 
