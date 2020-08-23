@@ -23,7 +23,7 @@ public class IncomingObject : MonoBehaviour
             newProjectile.GetComponent<CustomBehaviour>().notChecked = false;
         newProjectile.SetActive(true);
         newProjectile.AddComponent<ProjectileMotion>();
-        newProjectile.GetComponent<ProjectileMotion>().speed = -5f;
+        newProjectile.GetComponent<ProjectileMotion>().speed = -15f;
         newProjectile.GetComponent<ProjectileMotion>().direction = ProjectileMotion.Direction.In;
         newProjectile.GetComponent<ProjectileMotion>().isKinematic = true;
     }
